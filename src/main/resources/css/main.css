@@ -1,0 +1,17 @@
+#navigation {
+    font-family: 'STIX Two Math', serif;
+}
+
+body {
+    background-image: url(https://cdn.wallpapersafari.com/32/44/dmRjU8.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+.card-body {
+    background-color: lightpink;
+    text-align-all: center;
+}
+.date-cell {
+    font-style: italic;
+}
